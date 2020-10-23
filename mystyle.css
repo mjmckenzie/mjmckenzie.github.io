@@ -6,6 +6,7 @@ font-size:3em;
 p.fancy{
  color:#0B0B0B;
 font-style: oblique; 
+}
 h2{
   background-color:#070101;
   color:#F4A5FB;
@@ -19,4 +20,4 @@ h3{
  p.fancy{
   color:#838080;
   font-style: bold;
-  
+ }
