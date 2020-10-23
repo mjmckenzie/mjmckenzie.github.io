@@ -1,7 +1,7 @@
 h1{
 background-color:#838080;
 color:#fd010F;
-font-size:3em, bold, oblique;
+font-size:3em;
 }
 p.fancy{
  color:#0B0B0B;
@@ -11,7 +11,12 @@ h2{
   color:#F4A5FB;
     font-size:3em;
 }
-p.fancy{
- color: #3B3030
-  font-style: bold
+h3{
+ background-color:#FD0303;
+ color:#030000;
+  font-size:3em;
+ }
+ p.fancy{
+  color:#838080;
+  font-style: bold;
   
